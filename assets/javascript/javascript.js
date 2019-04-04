@@ -12,6 +12,7 @@ function displayButtons(){
         $("#gifButtonsMenu").append(gifButton);
     }
 }
+
 // Adding new criteria button
 function addNewButton(){
     $("#addGif").on("click", function(){
